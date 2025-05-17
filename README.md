@@ -548,21 +548,8 @@ Esta clase cumple adecuadamente con su función como elemento de una matriz 10x1
         }
     }
 
-Representa un vehículo con atributos básicos de identificación y características. Esta clase encapsula los datos de un vehículo individual, como su placa, color, línea, modelo y propietario.
+Representa un vehículo con atributos básicos de identificación y características. Esta clase encapsula los datos de un vehículo individual, como su placa, color, línea, modelo y # Almacenamiento.java
 
-# Almacenamiento.java
-
-    package com.almacenamiento;
     
-    /**
-     *
-     * @author yovany.garcia
-     */
-    public class Almacenamiento {
-    
-        public static void main(String[] args) {
-            System.out.println("Hello World!");
-        }
-    }
 
 Contiene el método `main()` del proyecto. Actualmente actúa como punto de entrada del programa, aunque en su estado actual solo imprime "Hello World!". Esta clase puede ser extendida para inicializar estructuras de almacenamiento, gestionar vehículos o conectar con una interfaz gráfica en el futuro.
